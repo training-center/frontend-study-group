@@ -1,5 +1,5 @@
 
-Repositório do grupo de estudos sobre tecnologias Front-end do [Training Center](https://training-center.github.io).
+Repositório do grupo de estudos do [Training Center](https://training-center.github.io) sobre tecnologias de base do Front-end (HTML+CSS+JS).
 
 <p align="center">
   <img src="assets/training-center-logo.svg" alt="Logo do Training Center">
